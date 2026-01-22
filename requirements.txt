@@ -3,3 +3,4 @@ streamlit
 matplotlib
 numpy
 plotly
+altair<5
